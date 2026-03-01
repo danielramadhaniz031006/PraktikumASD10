@@ -28,3 +28,25 @@ Jawaban 3.2.3
    karena tidak memiliki method main.
    -Class MahasiswaDemo: Berfungsi sebagai class driver/executor yang berisi method main untuk menjalankan program, membuat instansiasi objek, dan mengelola logika program.
    Dengan dipisah, class Mahasiswa bisa digunakan kembali (reusable) di class lain tanpa menulis ulang kodenya.
+
+
+Hasil Percobaan 3.3
+
+<img width="403" height="391" alt="Cuplikan layar 2026-02-27 095527" src="https://github.com/user-attachments/assets/d5c94e6a-948d-49bb-b0a6-18d254737985" />
+<img width="367" height="507" alt="Cuplikan layar 2026-03-01 191918" src="https://github.com/user-attachments/assets/aeacf9ae-c9be-4070-9a68-6ff8b3f871b7" />
+
+Jawaban 3.3.3
+1. <img width="578" height="836" alt="image" src="https://github.com/user-attachments/assets/d6faaf98-188f-4d1c-926d-6e6a494f4160" />
+2. Kode tersebut menyebabkan error karena array of object yang dibuat hanya membuat array-nya saja, tetapi belum membuat object pada setiap elemennya.
+
+Hasil Percobaan 3.4
+
+<img width="658" height="745" alt="image" src="https://github.com/user-attachments/assets/9cc68ade-61f0-484e-a147-1b8e6bf70c3a" />
+
+Jawaban 3.4.3
+1. Bisa. Disebut Constructor Overloading
+2. <img width="653" height="892" alt="image" src="https://github.com/user-attachments/assets/a2e383ac-b15a-4ac3-8564-f32642075964" />
+
+   <img width="777" height="631" alt="image" src="https://github.com/user-attachments/assets/2d4046dc-bba6-4287-b71c-7073120fd6f0" />
+
+
