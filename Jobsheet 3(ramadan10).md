@@ -50,9 +50,6 @@ Jawaban 3.4.3
    <img width="777" height="631" alt="image" src="https://github.com/user-attachments/assets/2d4046dc-bba6-4287-b71c-7073120fd6f0" />
 
 3.5 Tugas
-1. <img width="341" height="692" alt="image" src="https://github.com/user-attachments/assets/397d1b65-f021-4473-8475-51f7b7a2874e" />
+1. <img width="680" height="728" alt="image" src="https://github.com/user-attachments/assets/741f84ec-24e1-4dd0-aecb-da68f0d6b1e7" />
 
-2. 
-
-
-
+2. <img width="563" height="848" alt="image" src="https://github.com/user-attachments/assets/2a499ee5-c650-4789-93e7-43977d08e1b4" />
