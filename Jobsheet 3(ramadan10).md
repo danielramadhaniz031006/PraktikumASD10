@@ -49,5 +49,10 @@ Jawaban 3.4.3
 
    <img width="777" height="631" alt="image" src="https://github.com/user-attachments/assets/2d4046dc-bba6-4287-b71c-7073120fd6f0" />
 
+3.5 Tugas
+1. <img width="341" height="692" alt="image" src="https://github.com/user-attachments/assets/397d1b65-f021-4473-8475-51f7b7a2874e" />
+
+2. 
+
 
 
