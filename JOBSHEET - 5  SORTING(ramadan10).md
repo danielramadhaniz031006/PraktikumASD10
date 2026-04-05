@@ -3,7 +3,7 @@
 | NIM | 254107020255 |
 | Nama | Daniel Ramadhani Zulkarnain |
 | Kelas | TI - 1F |
-| Repository | [link] () |
+| Repository | [link] (https://github.com/danielramadhaniz031006/PraktikumASD10/tree/c66b4c3e05f1b207a79de29a816831129ded6bbc/praktikum5) |
 
 Hasil Praktikum 1
 A. SORTING – BUBBLE SORT
