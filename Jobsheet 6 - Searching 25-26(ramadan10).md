@@ -38,3 +38,61 @@
    -Kurang efisien untuk data besar
    -Waktu pencarian lebih lama karena harus mengecek satu per satu
    -Kompleksitas waktu O(n)
+
+
+6.3. Searching/ Pencarian Menggunakan Algoritma Binary Search
+
+<img width="430" height="725" alt="image" src="https://github.com/user-attachments/assets/d2cfb22c-9bfa-427f-9c8b-47c264a80cac" />
+<img width="465" height="579" alt="image" src="https://github.com/user-attachments/assets/58ac2762-2946-4944-9fec-733cbc43c878" />
+<img width="649" height="821" alt="image" src="https://github.com/user-attachments/assets/06a0594a-fafc-4059-90bd-44522f2cc1f2" />
+
+6.3.3. Jawaban
+1. mid = (left + right) / 2;
+2. if (cari == listMhs[mid].ipk) {
+    return mid;  // Data ditemukan
+} else if (listMhs[mid].ipk < cari) {
+    return findBinarySearch(cari, left, mid - 1);
+} else {
+    return findBinarySearch(cari, mid + 1, right);
+}
+3. left : Menandai batas kiri area pencarian
+   right : Menandai batas kanan area pencarian
+   mid : Posisi tengah sebagai pembagi array
+4. ┌─────────────────────────────────────────────────────────────┐
+   │                    ALUR PEMROSESAN IPK                      │
+   └─────────────────────────────────────────────────────────────┘
+                           │
+                           ▼
+              ┌─────────────────────────┐
+              │ Input IPK yang dicari   │
+              │    (contoh: 3.5)        │
+              └───────────┬─────────────┘
+                          │
+                          ▼
+              ┌─────────────────────────┐
+              │ Pastikan data sudah     │
+              │ SORTING (DESC)          │
+              │[3.9, 3.8, 3.7, 3.5, 3.2]│
+              └───────────┬─────────────┘
+                          │
+                          ▼
+              ┌─────────────────────────┐
+              │ Bandingkan IPK[mid]     │
+              │ dengan IPK yang dicari  │
+              └───────────┬─────────────┘
+                          │
+            ┌─────────────┼─────────────┐
+            ▼             ▼             ▼
+        SAMA         LEBIH KECIL    LEBIH BESAR
+            │             │             │
+            ▼             ▼             ▼
+      return mid    Cari KIRI     Cari KANAN
+      (ditemukan)  (mid-1)       (mid+1)
+5. Kerja Binary Search:
+-Data harus terurut (sudah di-sorting)
+-Membagi area pencarian menjadi 2 setiap iterasi
+-Mengeliminasi setengah data yang tidak mungkin mengandung target
+-Kompleksitas: O(log n) - jauh lebih cepat dari Sequential Search O(n)
+
+6. Data tidak ditemukan ketika kondisi right < left terpenuhi, yang berarti area pencarian sudah habis
+7. 
