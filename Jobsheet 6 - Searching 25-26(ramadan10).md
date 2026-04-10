@@ -67,6 +67,10 @@
 -Kompleksitas: O(log n) - jauh lebih cepat dari Sequential Search O(n)
 
 6. Data tidak ditemukan ketika kondisi right < left terpenuhi, yang berarti area pencarian sudah habis
-7. <img width="499" height="607" alt="image" src="https://github.com/user-attachments/assets/73a847e8-4c82-4e75-a40a-0d930fe1d995" />
+   
+7. Hasil
+   
+<img width="499" height="607" alt="image" src="https://github.com/user-attachments/assets/73a847e8-4c82-4e75-a40a-0d930fe1d995" />
+
 <img width="799" height="499" alt="image" src="https://github.com/user-attachments/assets/914ad951-2387-4d5d-9ca8-518a5afb6fe9" />
 
