@@ -58,36 +58,8 @@
 3. left : Menandai batas kiri area pencarian
    right : Menandai batas kanan area pencarian
    mid : Posisi tengah sebagai pembagi array
-4. ┌─────────────────────────────────────────────────────────────┐
-   │                    ALUR PEMROSESAN IPK                      │
-   └─────────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-              ┌─────────────────────────┐
-              │ Input IPK yang dicari   │
-              │    (contoh: 3.5)        │
-              └───────────┬─────────────┘
-                          │
-                          ▼
-              ┌─────────────────────────┐
-              │ Pastikan data sudah     │
-              │ SORTING (DESC)          │
-              │[3.9, 3.8, 3.7, 3.5, 3.2]│
-              └───────────┬─────────────┘
-                          │
-                          ▼
-              ┌─────────────────────────┐
-              │ Bandingkan IPK[mid]     │
-              │ dengan IPK yang dicari  │
-              └───────────┬─────────────┘
-                          │
-            ┌─────────────┼─────────────┐
-            ▼             ▼             ▼
-        SAMA         LEBIH KECIL    LEBIH BESAR
-            │             │             │
-            ▼             ▼             ▼
-      return mid    Cari KIRI     Cari KANAN
-      (ditemukan)  (mid-1)       (mid+1)
+4. <img width="317" height="445" alt="image" src="https://github.com/user-attachments/assets/7360185b-d4a4-48c4-88cd-bb872ace4892" />
+
 5. Kerja Binary Search:
 -Data harus terurut (sudah di-sorting)
 -Membagi area pencarian menjadi 2 setiap iterasi
@@ -95,4 +67,6 @@
 -Kompleksitas: O(log n) - jauh lebih cepat dari Sequential Search O(n)
 
 6. Data tidak ditemukan ketika kondisi right < left terpenuhi, yang berarti area pencarian sudah habis
-7. 
+7. <img width="499" height="607" alt="image" src="https://github.com/user-attachments/assets/73a847e8-4c82-4e75-a40a-0d930fe1d995" />
+<img width="799" height="499" alt="image" src="https://github.com/user-attachments/assets/914ad951-2387-4d5d-9ca8-518a5afb6fe9" />
+
