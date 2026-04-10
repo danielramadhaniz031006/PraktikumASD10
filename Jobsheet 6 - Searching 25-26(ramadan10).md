@@ -3,7 +3,7 @@
 | NIM | 254107020255 |
 | Nama | Daniel Ramadhani Zulkarnain |
 | Kelas | TI - 1F |
-| Repository | [link] () |
+| Repository | [link] (https://github.com/danielramadhaniz031006/PraktikumASD10/tree/267139b8ebf3332e516c6bf7f460f62d70d13335/minggu7) |
 
 6.2. Searching/ Pencarian Menggunakan Algoritma Sequential Search
 
