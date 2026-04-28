@@ -13,17 +13,7 @@
 <img width="248" height="249" alt="image" src="https://github.com/user-attachments/assets/50410850-ff4d-48bf-8b80-1795e85c67d8" />
 
 2.1.3 Jawaban
-1. - Method print()
-public void print() {
-    for (int i = 0; i <= top; i++) {
-        System.out.println(stack[i].nama + "\t" 
-            + stack[i].nim + "\t" 
-            + stack[i].kelas + "\t" 
-            + stack[i].nilai);
-    }
-    System.out.println(" ");
-}
-
+1. <img width="493" height="302" alt="image" src="https://github.com/user-attachments/assets/22ec8d4a-6d51-493d-81a7-5471ad47893c" />
 2. 5 data tugas mahasiswa
 3. Pengecekan ini berfungsi untuk memastikan bahwa stack masih memiliki ruang kosong sebelum menambahkan data baru
 4 dan 5.
@@ -31,6 +21,7 @@ public void print() {
 <img width="268" height="719" alt="image" src="https://github.com/user-attachments/assets/c15123c9-764a-4f8c-9133-3b95aafa3413" />
 <img width="247" height="553" alt="image" src="https://github.com/user-attachments/assets/09d8d8b4-bb92-45c9-8a06-8afdbbab3c0c" />
 <img width="209" height="366" alt="image" src="https://github.com/user-attachments/assets/a0988809-8176-40e0-8490-1f6f918e0257" />
+
 
 2.2 Percobaan 2: Konversi Nilai Tugas ke Biner
 
