@@ -25,4 +25,14 @@
 
 2.2 Percobaan 2: Konversi Nilai Tugas ke Biner
 
+<img width="341" height="613" alt="image" src="https://github.com/user-attachments/assets/4aec42fe-deda-4aab-82f5-d56d84fc5d04" />
 
+2.2.3 Jawaban
+1. Method ini mengubah nilai desimal (int) menjadi biner dengan bantuan stack.
+2. Hasilnya sama
+
+
+2.4 Hasil Latihan Praktikum 
+<img width="200" height="627" alt="image" src="https://github.com/user-attachments/assets/087fddb8-da59-4a4d-bbae-a3dee80b436f" />
+<img width="272" height="597" alt="image" src="https://github.com/user-attachments/assets/017d33be-df76-4ff2-9a2a-25b773ad0cd3" />
+<img width="216" height="728" alt="image" src="https://github.com/user-attachments/assets/02ac88c6-d66d-423e-ae5a-e728c22fceca" />
