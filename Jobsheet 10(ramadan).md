@@ -3,7 +3,7 @@
 | NIM | 254107020255 |
 | Nama | Daniel Ramadhani Zulkarnain |
 | Kelas | TI - 1F |
-| Repository | [link] () |
+| Repository | [link] (https://github.com/danielramadhaniz031006/PraktikumASD10/tree/cca2e2071bb61a0525c0653beb596088d54c4035/minggu10) |
 
 
 Hasil Percobaan 1 : Operasi Dasar Queue
