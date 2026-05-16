@@ -49,9 +49,13 @@ maka:
 - tail menunjuk node terakhir
 
 5 dan 6.
+
+
 <img width="186" height="365" alt="image" src="https://github.com/user-attachments/assets/50d9d898-1e1c-40f1-9d9e-1fea870a18bf" />
 
+
 <img width="218" height="229" alt="image" src="https://github.com/user-attachments/assets/732959b9-d0df-465a-81b5-133a3ba1a838" />
+
 
 <img width="178" height="230" alt="image" src="https://github.com/user-attachments/assets/28f13c3b-09a1-4274-9538-e492608a5647" />
 
