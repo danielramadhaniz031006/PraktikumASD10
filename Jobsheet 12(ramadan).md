@@ -40,3 +40,25 @@ Jawaban 12.2.3
    <img width="122" height="349" alt="image" src="https://github.com/user-attachments/assets/89789fa1-9b58-4817-a594-d79dc6f790f2" />
 
          
+Hasil Praktikum 2 :
+
+<img width="188" height="265" alt="image" src="https://github.com/user-attachments/assets/9fbfcfe0-330f-4cf6-a0ea-1f9df9437015" />
+
+
+Jawaban 12.3.3
+1. fungsi statement penghapusan node :
+   - head = head.next;
+     Berfungsi untuk memindahkan head ke node berikutnya setelah node pertama dihapus. Dengan demikian, node kedua akan
+     menjadi node pertama yang baru pada linked list.
+   - head.prev = null;
+     Berfungsi untuk menghapus hubungan node baru dengan node sebelumnya. Karena head sekarang menjadi node pertama, maka
+     node tersebut tidak boleh memiliki node sebelumnya (prev harus bernilai null).
+2. Hasil :
+
+   
+   <img width="186" height="268" alt="image" src="https://github.com/user-attachments/assets/2ea3b03c-5192-4829-b767-6ca201b6e895" />
+
+
+Hasil Tugas 12.5 :
+
+<img width="101" height="272" alt="image" src="https://github.com/user-attachments/assets/99e0b02d-f8f5-4d9a-899a-47cce53bae74" />
