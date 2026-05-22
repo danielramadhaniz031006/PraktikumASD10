@@ -3,7 +3,7 @@
 | NIM | 254107020255 |
 | Nama | Daniel Ramadhani Zulkarnain |
 | Kelas | TI - 1F |
-| Repository | [link] () |
+| Repository | [link] (https://github.com/danielramadhaniz031006/PraktikumASD10/tree/43ef1911bf4083aa84d871067fa9ca76e76a2f6d/CM2_10) |
 
 
 Input Output Fitur Tambah Antrian
