@@ -18,10 +18,12 @@ Input Output Fitur Cetak Antrian
 <img width="365" height="311" alt="image" src="https://github.com/user-attachments/assets/593c8480-2308-47b6-88b8-dbf2f63a4a76" />
 
 
+
 Input Output Fitur Hapus Antrian 
 
 
 <img width="278" height="800" alt="image" src="https://github.com/user-attachments/assets/14e92635-04bc-4b98-99d6-87c7845692b4" />
+
 
 
 Input Output Fitur Laporan pesanan
