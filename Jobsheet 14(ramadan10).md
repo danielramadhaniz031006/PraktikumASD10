@@ -34,3 +34,41 @@
 
 * Hasil Praktikum 2 :
 
+
+<img width="665" height="240" alt="image" src="https://github.com/user-attachments/assets/be1ebe54-6663-481e-93e2-d06dc0c70bd3" />
+
+
+14.3.2 Jawaban Percobaan
+1. Atribut dataMahasiswa digunakan untuk menyimpan seluruh data node Binary Tree ke dalam bentuk array. Setiap elemen array akan merepresentasikan sebuah node pada tree. Sedangkan atribut idxLast digunakan untuk menyimpan indeks terakhir yang berisi data pada array. Dengan adanya idxLast, program dapat mengetahui batas data yang tersimpan sehingga proses traversal tidak membaca indeks yang kosong atau melebihi jumlah data yang tersedia.
+
+
+2. Method populateData() digunakan untuk mengisi data mahasiswa ke dalam array Binary Tree dan sekaligus menyimpan indeks terakhir yang berisi data. Method ini mempermudah proses pengisian data karena seluruh data dapat dimasukkan sekaligus ke dalam array tanpa harus menambahkan node satu per satu. Selain itu, method ini juga menghubungkan data yang ada pada class utama dengan atribut dataMahasiswa di dalam class BinaryTreeArray.
+
+
+3. Method traverseInOrder() digunakan untuk melakukan proses traversal atau penelusuran node pada Binary Tree dengan metode InOrder, yaitu mengunjungi node kiri terlebih dahulu, kemudian node induk (root), lalu node kanan. Tujuan penggunaan traversal ini adalah agar seluruh data pada tree dapat ditampilkan secara terurut sesuai aturan penelusuran InOrder.
+
+
+4. Pada Binary Tree yang disimpan dalam array, posisi child dihitung menggunakan rumus:
+Left child = 2 × indeks + 1
+Right child = 2 × indeks + 2
+
+Jika node berada pada indeks 2, maka:
+
+Left child = (2 × 2) + 1 = 5
+Right child = (2 × 2) + 2 = 6
+
+Jadi posisi anak kiri berada pada indeks 5, sedangkan anak kanan berada pada indeks 6.
+
+
+5. Statement int idxLast = 6 digunakan untuk menunjukkan indeks terakhir yang berisi data pada array mahasiswa. Karena data mahasiswa yang dimasukkan berjumlah tujuh data dengan indeks mulai dari 0 sampai 6, maka indeks terakhir yang berisi data adalah 6. Nilai tersebut digunakan agar proses traversal mengetahui batas data yang valid dan tidak membaca indeks yang masih kosong.
+
+
+6. Indeks 2*idxStart+1 dan 2*idxStart+2 digunakan karena pada representasi Binary Tree menggunakan array terdapat aturan khusus dalam menentukan posisi child. Nilai 2*idxStart+1 digunakan untuk mencari posisi anak kiri, sedangkan 2*idxStart+2 digunakan untuk mencari posisi anak kanan. Rumus tersebut membuat hubungan parent dan child tetap teratur di dalam array sehingga struktur Binary Tree dapat terbentuk meskipun tidak menggunakan pointer seperti pada linked list. Dengan aturan ini, program dapat melakukan traversal secara rekursif dan menemukan hubungan antar node dengan mudah tanpa harus menyimpan alamat node secara langsung.
+
+
+
+
+* Hasil Tugas 14.4
+
+
+<img width="722" height="477" alt="image" src="https://github.com/user-attachments/assets/1b5ebb7e-e944-47ca-817f-1492b01b7e06" />
