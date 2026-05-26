@@ -6,7 +6,7 @@
 | Repository | [link] () |
 
 
-Hasil Praktikum 1 :
+* Hasil Praktikum 1 :
 
 
 <img width="515" height="765" alt="image" src="https://github.com/user-attachments/assets/9802639c-2d6c-479e-b4ad-467942762cf7" />
@@ -30,5 +30,5 @@ Hasil Praktikum 1 :
 6. Ketika method delete() menghapus sebuah node yang memiliki dua anak, proses penghapusan dilakukan dengan mencari node pengganti terlebih dahulu agar struktur BST tetap benar. Langkah pertama adalah mencari node yang akan dihapus. Setelah node ditemukan, program akan memanggil method getSuccessor() untuk mencari successor. Successor merupakan node dengan nilai terkecil pada subtree sebelah kanan dari node yang akan dihapus. Setelah successor ditemukan, posisi node yang akan dihapus digantikan oleh successor tersebut. Selanjutnya hubungan child dari node lama akan dipindahkan ke successor. Method getSuccessor() sangat membantu karena dapat menentukan node pengganti yang tepat sehingga aturan Binary Search Tree tetap terjaga dan struktur tree tidak rusak setelah proses penghapusan dilakukan.
 
 
-Hasil Praktikum 2 :
+* Hasil Praktikum 2 :
 
