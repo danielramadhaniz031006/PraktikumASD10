@@ -3,7 +3,7 @@
 | NIM | 254107020255 |
 | Nama | Daniel Ramadhani Zulkarnain |
 | Kelas | TI - 1F |
-| Repository | [link] () |
+| Repository | [link] (https://github.com/danielramadhaniz031006/PraktikumASD10/tree/ccb5136a413255ec7222f3bfeb6eadc2ba96277c/minggu14) |
 
 
 * Hasil Praktikum 1 :
