@@ -17,6 +17,7 @@ Hasil Praktikum 1 :
 
 2. Atribut left dan right pada class Node digunakan untuk menyimpan hubungan antara satu node dengan node lainnya di dalam tree. Atribut left berfungsi untuk menunjuk node anak kiri, sedangkan atribut right berfungsi untuk menunjuk node anak kanan. Dengan adanya kedua atribut tersebut, setiap node dapat saling terhubung sehingga membentuk struktur Binary Tree atau Binary Search Tree. Tanpa atribut left dan right, node tidak akan memiliki hubungan dengan node lainnya sehingga struktur tree tidak dapat dibentuk.
 
+3. Jabawan 
    3a. Atribut root pada class BinaryTree digunakan sebagai titik awal atau akar dari sebuah tree. Seluruh proses yang              dilakukan pada tree seperti penambahan data, pencarian data, traversal, maupun penghapusan data selalu dimulai dari          root. Root juga berfungsi sebagai penghubung utama untuk mengakses seluruh node yang terdapat di dalam tree. Oleh            karena itu, atribut root memiliki peran yang sangat penting dalam struktur Binary Tree. 
 
    3b. Ketika objek BinaryTree pertama kali dibuat, nilai dari root adalah null. Hal ini menunjukkan bahwa tree masih kosong        dan belum memiliki node sama sekali. Nilai null digunakan sebagai tanda bahwa belum ada data yang dimasukkan ke dalam        tree. Setelah node pertama ditambahkan, node tersebut akan langsung menjadi root.
