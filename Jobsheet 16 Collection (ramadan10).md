@@ -61,4 +61,28 @@ Jawaban Untuk Pertanyaan 16.3.3
 
 
 * Hasil Praktikum 3 :
+<img width="323" height="121" alt="image" src="https://github.com/user-attachments/assets/a61086d6-b2aa-4e60-ad86-92be2ecdd5e1" />
+
+Jawaban Untuk Pertanyaan 16.4.3
+1. Fungsi tambah() menggunakan konsep Varargs (Variable Arguments), yaitu fitur Java yang memungkinkan sebuah method
+   menerima jumlah argumen yang tidak terbatas dengan tipe data yang sama.
+    Contoh:
+    **public void tambah(Mahasiswa10... mahasiswa)**
+
+    Kelebihan:
+    - Dapat menerima banyak objek sekaligus.
+    - Kode lebih ringkas dan fleksibel.
+    - Tidak perlu membuat array secara manual.
+    - Memudahkan pemanggilan method dengan jumlah parameter yang berbeda-beda.
   
+2, 3.
+<img width="330" height="241" alt="image" src="https://github.com/user-attachments/assets/6d461cbc-22a7-4083-9efd-be94f369a0aa" />
+
+
+
+* Hasil Tugas 16.5 :
+  - Menu Awal dan Penambahan Data
+    
+
+
+
