@@ -74,15 +74,52 @@ Jawaban Untuk Pertanyaan 16.4.3
     - Kode lebih ringkas dan fleksibel.
     - Tidak perlu membuat array secara manual.
     - Memudahkan pemanggilan method dengan jumlah parameter yang berbeda-beda.
+
+
   
 2, 3.
 <img width="330" height="241" alt="image" src="https://github.com/user-attachments/assets/6d461cbc-22a7-4083-9efd-be94f369a0aa" />
 
 
 
+
 * Hasil Tugas 16.5 :
+
+
+
+
   - Menu Awal dan Penambahan Data
-    
+ 
+
+<img width="218" height="319" alt="image" src="https://github.com/user-attachments/assets/1d628170-dd96-430b-af22-a959ce6cfa82" />
+
+
+
+  - Tampil Nilai
+<img width="323" height="148" alt="image" src="https://github.com/user-attachments/assets/6b5e3166-51b7-4b65-aa83-1eee8167ab92" />
+
+
+
+  - Pencarian Data Mahasiswa
+ 
+  
+<img width="323" height="182" alt="image" src="https://github.com/user-attachments/assets/b407305e-fcc7-404d-b95c-52fbb2e25ca0" />
+
+
+
+  - Pengurutan Data Nilai
+ 
+  
+<img width="325" height="146" alt="image" src="https://github.com/user-attachments/assets/6ec3e261-b49d-4d90-a05f-044b64b0df42" />
+
+
+
+2. Tambahkan prosedur hapus data mahasiswa melalui implementasi Queue pada collections
+Tugas nomor 1!
+
+
+<img width="200" height="163" alt="image" src="https://github.com/user-attachments/assets/5463c215-b48a-4512-9aa7-a6f57e274adc" />
+
 
 
 
