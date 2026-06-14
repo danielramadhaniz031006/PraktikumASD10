@@ -14,8 +14,12 @@ Jawaban Untuk Pertanyaan 16.2.3
    **List l = new ArrayList();**
    Akibatnya ArrayList tersebut bertipe Object, sehingga dapat menyimpan berbagai jenis data seperti Integer, String, dan
    tipe data lainnya dalam satu collection
+
+   
 2, 3, 4,
+
 <img width="337" height="129" alt="image" src="https://github.com/user-attachments/assets/5bed93bf-ab59-4f21-974c-b03990cc5d6b" />
+
 
 5. dapat dijelaskan bahwa method push() pada LinkedList menambahkan elemen baru di bagian awal (head) list. Oleh karena itu,    elemen "Mei-mei" yang ditambahkan menjadi elemen pertama dalam LinkedList.
 
